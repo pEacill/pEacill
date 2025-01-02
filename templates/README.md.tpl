@@ -31,3 +31,8 @@
 {{range followers 5}}
 - [{{.Login}}]({{.URL}})
 {{- end}}
+
+#### 🔨 Check out my recent pull requests
+{{range recentPullRequests 5}}
+- [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
+{{- end}}
