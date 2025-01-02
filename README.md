@@ -1,4 +1,4 @@
-## Welcome to my GitHub page！
+# Welcome to my GitHub page！
 
 🎓 Received bachelor's degree from [School of Cyber Engineering, Xidian University](https://ce.xidian.edu.cn/)
 
@@ -25,6 +25,7 @@
 
 #### ⭐ Check out my recent stars
 
+- [psanal2018/kyber-arm64](https://github.com/psanal2018/kyber-arm64) - ARM64 implementation of Kyber. (today)
 
 #### 👯 Check out my recent followers
 
