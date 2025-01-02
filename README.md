@@ -27,6 +27,11 @@ Here are some ideas to get you started:
 
 📫 Email: [jia_liii@163.com](mailto:jia_liii@163.com)
 
+#### 🌱 Check out my recent projects
+{{range recentRepos 5}}
+- [{{.Name}}]({{.URL}}) - {{.Description}}
+{{- end}}
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pEacill&show_icons=true)
 
