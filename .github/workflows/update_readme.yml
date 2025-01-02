@@ -1,17 +1,19 @@
 name: Update README
 
 on:
-  push:
   schedule:
-    - cron: "0 */8 * * *"
+    # 每天运行一次
+    - cron: "0 0 * * *"
+  workflow_dispatch: # 手动触发
 
 jobs:
-  markscribe:
+  update-readme:
     runs-on: ubuntu-latest
-
     steps:
-      - uses: actions/checkout@master
+      # 检出仓库内容
+      - uses: actions/checkout@v3
 
+      # 使用 muesli/readme-scribe 自动生成 README.md
       - uses: muesli/readme-scribe@master
         env:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
@@ -19,12 +21,10 @@ jobs:
           template: "templates/README.md.tpl"
           writeTo: "README.md"
 
+      # 自动提交更新后的 README.md
       - uses: stefanzweifel/git-auto-commit-action@v4
-        env:
-          GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
         with:
-          commit_message: Update generated README
+          commit_message: "Update generated README"
           branch: main
-          commit_user_name: readme-scribe 🤖
-          commit_user_email: actions@github.com
-          commit_author: readme-scribe 🤖 <actions@github.com>
+          commit_user_name: "readme-scribe 🤖"
+          commit_user_email: "actions@github.com"
