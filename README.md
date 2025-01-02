@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🎓 Received bachelor's degrees from [School of Cyber Engineering, Xidian University](https://ce.xidian.edu.cn/)
+🎓 Received bachelor's degree from [School of Cyber Engineering, Xidian University](https://ce.xidian.edu.cn/)
 
 🎓 The master's degree is pursued at [School of Computer Science, Fudan University](https://cs.fudan.edu.cn/)
 
