@@ -4,7 +4,7 @@
 
 🎓 The master's degree is pursued at [School of Computer Science, Fudan University](https://cs.fudan.edu.cn/)
 
-💻 Interested in distributed systems, post-quantum cryptographic algorithms, Golang, and C++.
+💻 Interested in Distributed systems, Post-quantum cryptographic algorithms and their high-performance implementation, NEON instruction set, Golang, and C++.
 
 🖋 Blog：[pEacill.online](https://peacill.online/)
 
