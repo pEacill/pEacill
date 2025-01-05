@@ -14,11 +14,11 @@
 
 #### 📜 Check out my recent blog posts
 
+- [ZooKeeper](https://peacill.online/post/7340.html) (today)
+- [C&#43;&#43; Lock-free thread-safe data structures](https://peacill.online/post/303.html) (1 day ago)
 - [C&#43;&#43; concurrent data structures based on lock](https://peacill.online/post/20527.html) (3 days ago)
 - [Raft: A Understandable Consensus Algorithm](https://peacill.online/post/9989.html) (1 week ago)
 - [VMware FT: Practical System for Fault-Tolerant Virtual Machines](https://peacill.online/post/42123.html) (1 week ago)
-- [GFS: The Google file system](https://peacill.online/post/22157.html) (2 weeks ago)
-- [Golang编程技巧——TDD](https://peacill.online/post/50511.html) (2 weeks ago)
 
 #### 🌱 Check out my recent projects
 
