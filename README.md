@@ -26,6 +26,7 @@
 
 #### ⭐ Check out my recent stars
 
+- [etcd-io/etcd](https://github.com/etcd-io/etcd) - Distributed reliable key-value store for the most critical data of a distributed system (today)
 - [neon-ntt/neon-ntt](https://github.com/neon-ntt/neon-ntt) -  (1 day ago)
 - [moby/moby](https://github.com/moby/moby) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems (3 days ago)
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management (3 days ago)
