@@ -22,7 +22,7 @@
 
 #### 🌱 Check out my recent projects
 
-- [pEacill/Thread-safe-data-structure](https://github.com/pEacill/Thread-safe-data-structure) - 
+- [pEacill/Thread-safe-data-structure](https://github.com/pEacill/Thread-safe-data-structure) - Implemented some concurrency-safe data structures in C&#43;&#43;
 
 #### ⭐ Check out my recent stars
 
