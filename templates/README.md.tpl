@@ -8,7 +8,7 @@
 
 🖋 Blog： [pEacill.online](https://peacill.online/)
 
-💡 CSDN： [pEacill](https://blog.csdn.net/m0_54047527?spm=1000.2115.3001.5343)
+💡 ZhiHu： [pEacill](https://www.zhihu.com/people/mimanchi-61-67)
 
 📫 Email： [jia_liii@163.com](mailto:jia_liii@163.com)
 
