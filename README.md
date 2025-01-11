@@ -10,7 +10,7 @@
 
 💡 ZhiHu： [pEacill](https://www.zhihu.com/people/mimanchi-61-67)
 
-📫 Email： [pEacill01@gmail.com](mailto:pEacill01@gmail.com)
+📫 Email： [peacill01@gmail.com](mailto:peacill01@gmail.com)
 
 #### 📜 Check out my recent blog posts
 
