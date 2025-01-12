@@ -20,7 +20,7 @@
 - [Raft: A Understandable Consensus Algorithm](https://peacill.online/post/9989.html) (2 weeks ago)
 - [VMware FT: Practical System for Fault-Tolerant Virtual Machines](https://peacill.online/post/42123.html) (2 weeks ago)
 
-#### 🌱 Check out my recent projects
+#### 🌱 Check out my recent repostories
 
 - [pEacill/Job-Worker](https://github.com/pEacill/Job-Worker) - Design patterns for handling millions of requests per minute using Go
 - [pEacill/Thread-safe-data-structure](https://github.com/pEacill/Thread-safe-data-structure) - Implemented some concurrency-safe data structures in C&#43;&#43;
@@ -37,5 +37,4 @@
 
 - [LLjrr](https://github.com/LLjrr)
 
-#### 🔨 Check out my recent pull requests
 
