@@ -1,4 +1,4 @@
-# Welcome to my GitHub page！
+# Welcome to my GitHub homepage！
 
 🎓 Received bachelor's degree from [School of Cyber Engineering, Xidian University](https://ce.xidian.edu.cn/)
 
