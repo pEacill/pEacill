@@ -14,7 +14,7 @@
 
 #### 📜 Check out my recent blog posts
 
-- [CRAQ：A distributed object storage system](https://peacill.online/post/7899.html) (5 days ago)
+- [CRAQ：A distributed object storage system](https://peacill.online/post/7899.html) (6 days ago)
 - [ZooKeeper](https://peacill.online/post/7340.html) (1 week ago)
 - [C&#43;&#43; Lock-free thread-safe data structures（1）- Atomic operations and memory ordering](https://peacill.online/post/303.html) (1 week ago)
 - [C&#43;&#43; concurrent data structures based on lock](https://peacill.online/post/20527.html) (2 weeks ago)
