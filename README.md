@@ -18,7 +18,7 @@
 - [ZooKeeper](https://peacill.online/post/7340.html) (2 weeks ago)
 - [C&#43;&#43; Lock-free thread-safe data structures（1）- Atomic operations and memory ordering](https://peacill.online/post/303.html) (2 weeks ago)
 - [C&#43;&#43; concurrent data structures based on lock](https://peacill.online/post/20527.html) (3 weeks ago)
-- [Raft: A Understandable Consensus Algorithm](https://peacill.online/post/9989.html) (4 weeks ago)
+- [Raft: A Understandable Consensus Algorithm](https://peacill.online/post/9989.html) (1 month ago)
 
 #### 🌱 Check out my recent repostories
 
