@@ -1,4 +1,6 @@
-# Welcome to my GitHub page！
+### Hi！
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pEacill)
 
 🎓 Received bachelor's degree from [School of Cyber Engineering, Xidian University](https://ce.xidian.edu.cn/)
 
