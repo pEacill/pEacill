@@ -23,6 +23,7 @@
 
 #### 🌱 Check out my recent repostories
 
+- [pEacill/minigrep](https://github.com/pEacill/minigrep) - A minigrep implementation for learning rust
 - [pEacill/Job-Worker](https://github.com/pEacill/Job-Worker) - Design patterns for handling millions of requests per minute using Go
 - [pEacill/Thread-safe-data-structure](https://github.com/pEacill/Thread-safe-data-structure) - Implemented some concurrency-safe data structures in C&#43;&#43;
 
