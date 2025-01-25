@@ -1,4 +1,4 @@
-### Hi！   ![Profile Views](https://komarev.com/ghpvc/?username=pEacill&color=blue)
+## Hi！   ![Profile Views](https://komarev.com/ghpvc/?username=pEacill&color=pink)
 
 
 🎓 Received bachelor's degree from [School of Cyber Engineering, Xidian University](https://ce.xidian.edu.cn/)
