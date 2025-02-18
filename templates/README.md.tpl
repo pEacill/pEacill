@@ -42,6 +42,12 @@
 {{range recentContributions 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
 {{- end}}
--->
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=pEacill&color=blue)
+-->
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pEacill&color=blue" alt="Profile Views" />
+</p>
+
