@@ -22,6 +22,7 @@
 
 #### 🌱 Check out my recent repostories
 
+- [pEacill/SecKill](https://github.com/pEacill/SecKill) - 
 - [pEacill/MiniWebServer](https://github.com/pEacill/MiniWebServer) - Implement a simple web server using Rust.
 - [pEacill/minigrep](https://github.com/pEacill/minigrep) - A minigrep implementation for learning rust
 - [pEacill/Job-Worker](https://github.com/pEacill/Job-Worker) - Design patterns for handling millions of requests per minute using Go
