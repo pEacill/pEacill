@@ -24,9 +24,9 @@
 
 - [pEacill/Spring-Cloud-Config-Server](https://github.com/pEacill/Spring-Cloud-Config-Server) - A Spring Cloud Config Server With Consul &amp; RabbitMQ
 - [pEacill/SecKill](https://github.com/pEacill/SecKill) - Seckill system based on Golang.
+- [pEacill/config-repo](https://github.com/pEacill/config-repo) - Config Repo for SecKill.
 - [pEacill/MiniWebServer](https://github.com/pEacill/MiniWebServer) - Implement a simple web server using Rust.
 - [pEacill/minigrep](https://github.com/pEacill/minigrep) - A minigrep implementation for learning rust
-- [pEacill/Job-Worker](https://github.com/pEacill/Job-Worker) - Design patterns for handling millions of requests per minute using Go
 
 #### ⭐ Check out my recent stars
 
