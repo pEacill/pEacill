@@ -14,11 +14,11 @@
 
 #### 📜 Check out my recent blog posts
 
+- [Skills](https://peacill.online/post/52888.html) (today)
 - [Aurora: An innovative relational database service](https://peacill.online/post/24497.html) (1 year ago)
 - [C&#43;&#43; Lock-free thread-safe data structures(2) - Stack](https://peacill.online/post/54335.html) (1 year ago)
 - [CRAQ：A distributed object storage system](https://peacill.online/post/7899.html) (1 year ago)
 - [ZooKeeper](https://peacill.online/post/7340.html) (1 year ago)
-- [C&#43;&#43; Lock-free thread-safe data structures（1）- Atomic operations and memory ordering](https://peacill.online/post/303.html) (1 year ago)
 
 #### 🌱 Check out my recent repostories
 
